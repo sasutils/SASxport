@@ -8,6 +8,3 @@ set.seed(42)
 example(SASformat)
 example(makeSASNames)
 example(toSAS)
-example(write.xport)
-
-
