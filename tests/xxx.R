@@ -1,4 +1,5 @@
 library(SASxport)
+library(Hmisc)
 Sys.setenv("TZ"="GMT")
 
 ## manually create a data set
