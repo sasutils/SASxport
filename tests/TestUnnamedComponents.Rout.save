@@ -148,7 +148,7 @@ $FORMATS
 rd.xpr> ## Don't show: 
 rd.xpr> stopifnot( is.data.frame(w)==FALSE && is.list(w)==TRUE )
 
-rd.xpr> ## End(Don't show)
+rd.xpr> ## End Don't show
 rd.xpr> 
 rd.xpr> #### The Hmisc library provides many useful functions for interacting with
 rd.xpr> #### data imported from SAS via read.xport()
